@@ -1,0 +1,21 @@
+{
+  "name": "todoweb",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kpj2006/todoweb#readme",
+  "bugs": {
+    "url": "https://github.com/kpj2006/todoweb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpj2006/todoweb.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx http-server -p 3000 -o"
+  }
+}
